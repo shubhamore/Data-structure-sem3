@@ -1,0 +1,20 @@
+1 infix to postfix
+2 infix to prefix
+3 multiple queue
+4 Evaluation of Post-fix expression using Stack
+5 circular queue
+6 priority queue
+7 palindrome using ll
+8 polynomial addition using ll
+9 polynomial multiplication using ll
+10 insert(position),sort in dll
+11 insert(end), concat in dll
+12 delete duplicate in ll
+13 partition in ll
+14 bst and pre,in,post order traversal
+15 bfs graph
+16 dfs graph
+17 linear probing
+18 quadratic probing
+19 min heap
+20 max heap
